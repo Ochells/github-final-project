@@ -14,6 +14,8 @@ Output
 
    simple interest = p*t*r
 
+
+
 Apache license 2.0
 
 Copyright (c) 2023
