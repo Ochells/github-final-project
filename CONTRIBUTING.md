@@ -1,5 +1,3 @@
-All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
-
 ## Contents
 
 * [Code of Conduct](#code-of-conduct)
@@ -10,7 +8,7 @@ All contributions, bug reports, bug fixes, documentation improvements, enhanceme
 
 ## Code of Conduct
 
-We take our open source community seriously and hold ourselves and other contributors to high standards of communication. By participating and contributing to this project, you agree to uphold our [Code of Conduct](https://github.com/Ochells/github-final-project/blob/main/CODE_OF_CONDUCT.md).
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome. We take our open source community seriously and hold ourselves and other contributors to high standards of communication. By participating and contributing to this project, you agree to uphold our [Code of Conduct](https://github.com/Ochells/github-final-project/blob/main/CODE_OF_CONDUCT.md).
 
 ## Getting Started
 
